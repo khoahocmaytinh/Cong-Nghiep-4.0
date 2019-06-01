@@ -12,14 +12,14 @@
     <td><a href="https://github.com/khoahocmaytinh">khoahocmaytinh</a></td>
   </tr>
   <tr>
-    <td>Vương Khả Hưng</td>
     <td>18600105</td>
+    <td>Vương Khả Hưng</td>
     <td>hungvuong12ad@gmail.com</td>
     <td><a href="https://github.com/hungvuong12">hungvuong12</a></td>
   </tr>
   <tr>
-    <td>Nguyễn Nhật Duy</td>
     <td>1760481</td>
+    <td>Nguyễn Nhật Duy</td>
     <td>duy1998cvvn@gmail.com</td>
     <td><a href="https://github.com/nhatduy1998">nhatduy1998</a></td>
   </tr>
