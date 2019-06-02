@@ -3,7 +3,7 @@
     <th>MSSV</th>
     <th>Họ tên</th>
     <th>Email</th>
-    <th>Link Github</th>
+    <th>Số điện thoại</th>
   </tr>
   <tr>
     <td>1560232</td>
