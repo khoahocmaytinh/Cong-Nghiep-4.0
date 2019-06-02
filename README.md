@@ -9,18 +9,18 @@
     <td>1560232</td>
     <td>Lê Minh Hùng</td>
     <td>inhung.h@gmail.com</td>
-    <td><a href="https://github.com/khoahocmaytinh">khoahocmaytinh</a></td>
+    <td>0974775712</td>
   </tr>
   <tr>
     <td>18600105</td>
     <td>Vương Khả Hưng</td>
     <td>hungvuong12ad@gmail.com</td>
-    <td><a href="https://github.com/hungvuong12">hungvuong12</a></td>
+    <td>0913772651</td>
   </tr>
   <tr>
     <td>1760481</td>
     <td>Nguyễn Nhật Duy</td>
     <td>duy1998cvvn@gmail.com</td>
-    <td><a href="https://github.com/nhatduy1998">nhatduy1998</a></td>
+    <td>0948495148</td>
   </tr>
 </table>
